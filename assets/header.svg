@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="350" viewBox="0 0 1100 350">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#261d31"/><stop offset=".6" stop-color="#3b2b43"/><stop offset="1" stop-color="#1e2431"/></linearGradient><linearGradient id="silver" x2="0" y2="1"><stop stop-color="#f5eaff"/><stop offset=".35" stop-color="#b1b8d9"/><stop offset=".65" stop-color="#a6eadf"/><stop offset="1" stop-color="#e6b5dc"/></linearGradient><linearGradient id="title"><stop stop-color="#f2d9ee"/><stop offset="1" stop-color="#b4e8df"/></linearGradient></defs>
+<rect width="1100" height="350" rx="24" fill="url(#bg)"/>
+<rect x="19" y="19" width="1062" height="312" rx="19" fill="none" stroke="#b6a0be" opacity=".42"/>
+<g fill="none" stroke="#cab7d2" opacity=".35"><path d="M45 77H1055M45 280H1055"/><path d="M772 77V280"/></g>
+<g fill="#e6c8e7" font-family="Georgia,serif"><text x="65" y="120" font-size="27" font-style="italic">hi, i'm</text><text x="65" y="203" font-size="92" font-style="italic" fill="url(#title)">ksenia.</text></g>
+<text x="69" y="246" fill="#b5e5dc" font-family="monospace" font-size="19" letter-spacing="2">WEB DEVELOPER  /  OPEN TO PROJECTS</text>
+<text x="70" y="304" fill="#bbaec7" font-family="monospace" font-size="14">✦ build things with care · ksnarchive.zip</text>
+<g transform="translate(900 166)"><circle r="101" fill="url(#silver)" opacity=".92"/><circle r="82" fill="none" stroke="#fff" opacity=".5" stroke-width="2"/><circle r="64" fill="none" stroke="#665c88" opacity=".45"/><circle r="46" fill="none" stroke="#fff" opacity=".55"/><circle r="24" fill="#3b2b43"/><circle r="12" fill="#b8a7d0"/><path d="M-80 60L75 -63" stroke="#fff" stroke-width="8" opacity=".16"/><path d="M-60 -82L78 55" stroke="#c795d9" stroke-width="9" opacity=".22"/></g>
+<g transform="translate(770 55)" fill="none" stroke="#e8d5e6" stroke-width="2"><path d="M0 0V24M-12 12H12M0 6L6 12L0 18L-6 12Z"/><path d="M270 230V250M260 240H280"/></g>
+<g transform="translate(755 242)"><path d="M0 60Q-15 12 4 -5Q25 -30 43 0Q61 -30 82 -3Q101 14 83 60Z" fill="#e6d2e8" opacity=".95"/><path d="M23 25Q42 40 61 25" stroke="#81668c" fill="none" stroke-width="3"/><circle cx="27" cy="12" r="3" fill="#54415d"/><circle cx="57" cy="12" r="3" fill="#54415d"/><path d="M39 20l4 4 4 -4" fill="none" stroke="#54415d" stroke-width="2"/></g>
+<g transform="translate(1040 48)" fill="#f1dbea"><ellipse rx="10" ry="27" transform="rotate(0)"/><ellipse rx="10" ry="27" transform="rotate(60)"/><ellipse rx="10" ry="27" transform="rotate(120)"/><circle r="8" fill="#d7c18e"/></g>
+</svg>
