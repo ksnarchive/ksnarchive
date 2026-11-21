@@ -1,78 +1,26 @@
 <div align="center">
-
-<img src="./assets/header.svg" alt="Ksenia — web developer, dreamy Y2K header" width="100%" />
-
+<img src="./assets/header.svg" width="100%" alt="Ksenia dreamy Y2K web developer header" />
 <br/>
-
-**web development · thoughtful interfaces · a little bit of internet magic**
-
-<sub>Привет! Я Ксения. Создаю удобные и красивые сайты для людей и бизнеса.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/ksnarchive?tab=repositories">explore my code ↗</a> &nbsp;·&nbsp; <a href="#selected-work">selected work</a> &nbsp;·&nbsp; <a href="#lets-connect">let's connect</a>
-
+<img src="./assets/about.svg" width="100%" alt="About Ksenia: web developer, open to freelance" />
+<br/>
+<img src="./assets/toolbox.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, Python, SQL, Git, C++, Qt" />
+<br/>
+<img src="./assets/projects.svg" width="100%" alt="Selected work: restoration materials and railway tickets" />
 </div>
 
----
+<details>
+<summary>✧ подробнее о проектах / project notes</summary>
 
-### ✧ about me
+**Restoration Materials** — проект сайта с каталогом реставрационных материалов, корзиной и личным кабинетом. Ссылка на исходники появится после публикации.
 
-```text
-name      → Ksenia
-focus     → web development, interfaces & databases
-currently → building my portfolio
-status    → open to freelance projects
-mood      → probably debugging something...
-```
+**Railway Tickets** — интерфейс поиска железнодорожных билетов с подсказками и результатами поиска. Ссылка на исходники появится после публикации.
 
-### ♡ things I work with
-
-`HTML` · `CSS` · `JavaScript` · `Python` · `SQL` · `C++` · `Qt` · `Git`
-
-<sub>Здесь только знакомые мне технологии. Стек конкретного проекта будет указан в его репозитории.</sub>
-
-<a id="selected-work"></a>
-### ✿ selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / Restoration Materials**
-
-Концепт сайта для продажи реставрационных материалов: каталог, карточки товаров и пользовательские сценарии интернет-магазина.
-
-<sub>Ссылка на исходники и демо появится после публикации проекта.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**02 / Railway Tickets**
-
-Проект интерфейса поиска железнодорожных билетов: направления, подсказки при вводе и страница результатов.
-
-<sub>Ссылка на исходники и демо появится после публикации проекта.</sub>
-
-</td>
-</tr>
-</table>
-
-### ✧ what I can build
-
-- Адаптивные лендинги и сайты компаний
-- Каталоги товаров и интерфейсы веб-сервисов
-- Формы, поиск, интерактивные элементы
-- Проекты с базами данных
-
-<a id="lets-connect"></a>
-### ♡ let's connect
-
-**Open to freelance projects.** Если вам нужен сайт — давайте обсудим задачу.
-
-Контакты добавлю здесь, когда будут готовы публичные ссылки.
+</details>
 
 <div align="center">
-<br/>
-<sub>made with care, curiosity & too many browser tabs ✦</sub>
+<img src="./assets/contact.svg" width="100%" alt="Open for website projects. Let's make something lovely and useful." />
+
+<a href="https://github.com/ksnarchive?tab=repositories">✦ view repositories</a> · <a href="https://github.com/ksnarchive/ksnarchive">✿ profile source</a>
+
+<sub>Ссылки на демо и контакт для заказов добавим после публикации.</sub>
 </div>
