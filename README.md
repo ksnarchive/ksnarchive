@@ -1,20 +1,69 @@
 <div align="center">
 
-<img src="./assets/profile-composition.svg" width="100%" alt="Ksenia — dreamy lavender Y2K developer profile with CD, lilies, technology stack and illustrated project cards"/>
+<img src="./assets/wordmark.svg" alt="hello, i'm ksenia" width="72%" />
 
-<br/>
+<sub>✿ web development · pretty interfaces · little internet things ✿</sub>
 
-<a href="https://github.com/ksnarchive?tab=repositories">✧ repositories</a> &nbsp;·&nbsp; <a href="https://github.com/ksnarchive/ksnarchive">♡ source</a>
+<br/><br/>
+
+<a href="https://github.com/ksnarchive?tab=repositories">repositories</a> &nbsp;·&nbsp; <a href="#-my-toolbox">tech stack</a> &nbsp;·&nbsp; <a href="#-little-projects">projects</a>
 
 </div>
 
-<details>
-<summary>✿ Подробнее обо мне и проектах</summary>
+---
 
-Привет! Я Ксения, занимаюсь веб-разработкой и интерфейсами. Работаю с HTML, CSS, JavaScript, Python, SQL, C++, Qt и Git.
+<table>
+<tr>
+<td width="67%" valign="top">
 
-**Restoration Materials:** сайт-каталог реставрационных материалов с корзиной и личным кабинетом. **Railway Booking:** интерфейс поиска железнодорожных билетов. Ссылки на исходники и демо добавлю после публикации.
+### ♡ hi there!
 
-Открыта к интересным веб-проектам. Контакт для связи будет добавлен отдельно.
+i'm **ksenia**, a developer who loves making things that are both useful and pretty.
 
-</details>
+Пишу код, создаю сайты и люблю продуманные интерфейсы. Здесь храню проекты, эксперименты и всё, что мне интересно.
+
+- 🌷 **focus:** web development & UI
+- ☁️ **learning:** always something new
+- 💌 **status:** open to freelance projects
+
+<sub>somewhere between clean code and cute design ♡</sub>
+
+</td>
+<td width="33%" align="center" valign="middle">
+
+<img src="./assets/cat.svg" alt="pastel cat" width="165" />
+
+</td>
+</tr>
+</table>
+
+### ✧ my toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,cpp,qt,git&theme=light" alt="HTML, CSS, JavaScript, Python, MySQL, C++, Qt and Git" />
+
+<sub>HTML · CSS · JavaScript · Python · SQL · C++ · Qt · Git</sub>
+
+</div>
+
+### ✿ little projects
+
+| project | about |
+| :--- | :--- |
+| **01 · restoration materials** | Сайт-каталог реставрационных материалов: товары, корзина, избранное и личный кабинет. |
+| **02 · railway booking** | Интерфейс поиска железнодорожных билетов с подсказками и результатами поиска. |
+
+<sub>✧ Ссылки на исходники и демо появятся после публикации проектов.</sub>
+
+---
+
+<div align="center">
+
+<img src="./assets/cd.svg" alt="holographic CD" width="76" /> &nbsp; <img src="./assets/flower.svg" alt="pastel flower" width="54" />
+
+**thanks for stopping by ♡**
+
+<sub>made with curiosity, care & too many browser tabs</sub>
+
+</div>
